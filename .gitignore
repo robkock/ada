@@ -1,0 +1,30 @@
+# Eclipse
+.settings/
+.classpath
+.project
+
+# Maven
+target
+
+# Anypoint
+.studio
+mule-project.xml
+
+# Mule
+.mule
+catalog/
+
+# Logging
+*.log
+
+# Application status
+activemq-data
+derby.log
+
+# Apple
+.DS_Store
+
+# Editor
+.*swp
+
+#Hidden files
